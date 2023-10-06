@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696458616 source:d:\codeblocks\lab 3 test\main.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
